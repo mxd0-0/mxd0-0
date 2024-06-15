@@ -10,11 +10,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<br>
-
-- 🌱 I’m currently learning **Android Development**
-
-<br>
+🌱 I’m currently learning [Android devlopment on](https://developer.android.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
