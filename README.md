@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=mxd0-0&label=Profile%20views&color=0e75b6&style=flat" alt="mxd0-0" />
 </p>
 
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -45,9 +44,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mxd0-0&show_icons=true&locale=en&layout=compact" alt="mxd0-0" />
 </p>
 
-<br clear="both">
 
-<br>
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mxd0-0&show_icons=true&locale=en" alt="mxd0-0" />
