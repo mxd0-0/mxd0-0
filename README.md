@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I' Mouhammed</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">Android developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mxd0-0&label=Profile%20views&color=0e75b6&style=flat" alt="mxd0-0" />
