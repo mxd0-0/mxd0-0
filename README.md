@@ -1,11 +1,6 @@
 <h1 align="center">Hello 👋, I' Mohammed</h1>
 <h3 align="center">Android developer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mxd0-0&label=Profile%20views&color=0e75b6&style=flat" alt="mxd0-0" />
-</p>
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
