@@ -1,8 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/d5a852db-365f-4dc1-8757-56194dd4c576)
 <h1 align="center">Hello 👋, I' Mohammed</h1>
 <h3 align="center">Android developer</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 🌱 I’m currently learning Android devlopment on [developer.android.com](https://developer.android.com)
 
