@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://media.giphy.com/media/I1Xsmz4BGWSPp6yJ1j/giphy.gif?cid=ecf05e47tiu246tpi7psbzr5qsq7uefbxpqxvi6c5z0q5x36&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" style="width: 100%; height: auto;" />
+    <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" align="center" style="width: 100%; height: auto;" />
 </div>
 
 <h1 align="center">Hello 👋, I' Mohammed</h1>
