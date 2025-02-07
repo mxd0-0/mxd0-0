@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/d5a852db-365f-4dc1-8757-56194dd4c576)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I' Mohammed</h1>
 <h3 align="center">Android developer</h3>
 
