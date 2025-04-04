@@ -1,8 +1,3 @@
-
-<div align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNidHVycW9kYzZhd2d2eGdmcWFycnYycTliczRldTh6am9wdm0ycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" align="center" style="width: 100%; height: auto;" />
-</div>
-
 <h1 align="center">Hello 👋, I' Mohammed</h1>
 <h3 align="center">Android developer</h3>
 
